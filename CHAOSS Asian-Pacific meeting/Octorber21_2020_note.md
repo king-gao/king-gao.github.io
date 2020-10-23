@@ -1,26 +1,26 @@
-[200~October 21, 2020 
+# October 21, 2020 
  
 
- Attendees (please add yourself to this list) 
+## Attendees (please add yourself to this list) 
 
-     King Gao                 busyday today, I will goto Nanjing this Friday 
+ - King Gao                 busyday today, I will goto Nanjing this Friday 
 
-     Elizabeth Barron 
+ - Elizabeth Barron 
 
-     Dawn Foster 
+ - Dawn Foster 
 
-     Kevin Lumbard  
+ - Kevin Lumbard  
 
-     Willem Jiang 
+ - Willem Jiang 
 
-     Daniel Izquierdo - starting lock down again! :/ 
+ - Daniel Izquierdo - starting lock down again! :/ 
 
       
        
 
-       Agenda: 
+## Agenda: 
 
-       REMINDER: Switching to a new zoom link November 1 
+### 提醒: 从2020年11月1日开始，CHAOSS例会切换到了新的ZOOM连接 
 
        King Gao: Map of CHAOSS Metrics 
 
