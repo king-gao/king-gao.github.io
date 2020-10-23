@@ -15,59 +15,59 @@
 
  - Daniel Izquierdo - starting lock down again! :/ 
 
-      
-       
 
 ## Agenda: 
 
 ### 提醒: 从2020年11月1日开始，CHAOSS例会切换到了新的ZOOM连接 
 
-       King Gao: Map of CHAOSS Metrics 
+### King Gao: Map of CHAOSS Metrics：
 
-       WG -> focus areas -> metrics in a really visual way 
+- 可视化展示 WG -> focus areas -> metrics 的关系
 
-       Action Item King Gao: will share the PDF in the CHAOSS mailing list 
+-  King Gao:将在CHAOSS mailing list分享该PDF 
 
-       CHAOSScon China 
+### CHAOSScon China 
 
-       Should we try to hold a virtual or hybrid CHAOSScon in China in 2021? 
+- 我们是否考虑2021年在中国举办一个线上或者线下的CHAOSScon? 
 
-       Maybe May or June between OSSummit China and NA.  
+- 可能5月份或者6月份在中国举行峰会.  
 
-       Beijing and Shanghai is better than other city,and Shanghai maybe the best choice. 
+- 北京和上海是两个不错的选型，但是上海可能更好一点. 
 
-       OSPO discussion: 
+### OSPO 讨论: 
 
-       Community risk assessment when contributing to OSS projects in upstream 
+- 当在上游社区贡献的时候社区的风险怎么评估？
 
-       Are there specific checkpoints we can follow / technical review documents, so we can assure the quality of the software project. 
+- 风险评估的时候是否有具体的检查点？
 
-       Is there a way this happens in open source? Can we monitor this quality in some other ways in CHAOSS? 
+- 可以遵循技术评审文件，保证软件的质量，还有一写代码review机制，commit机制来保证。
 
-       Some references coming from the TODO group: https://todogroup.org/guides/ 
+- 我们是否在CHAOSS社区中有一些其他的办法来监控软件质量？
 
-       With this respect, are there any specific discussions running in CHAOSS around the quality of the contributions? (e.g., size of the change review – no more than 100 lines, recommendations in the size of the message, etc).  
+- 可以从 TODO group 进行一些参考: https://todogroup.org/guides/ 
 
-       This may be worth exploring in the Evolution WG. 
+- 这些围绕贡献者的代码质量相关的指标可以在 Evolution WG 详细讨论，code change的代码行不超过100行之类的指标. 
 
-       Open Issue discussion: Open branch lifecycle: https://github.com/chaoss/wg-evolution/issues/368 
+### Open Issue 讨论: Open branch lifecycle: https://github.com/chaoss/wg-evolution/issues/368 
 
-       What do we do with branches that are not needed anymore? 
+- 当一个分支不在需要的时候，我们该做什么？
 
-       Question: How do we know if a branch is not needed anymore? 
+- 问题: 我们是怎么知道分支不在需要了? 
 
-       Can we have a metrics focused on telling us how many branches have not been active in the last X months? 
+- 我们是否可以有一个度量指标表示我们多少分支在最近XX个月份不活跃？
 
-       List of those branches 
+- 分支的清单 
 
-       How many branches have been opened for more than X days 
+- 多少分支open了XX天？
 
-       How many branches have been merged and are still open upstream 
+- 多少个分支已经被merge然后仍然open？ 
 
-       This would be useful to know in order to clean the house, delete branches, etc. 
+- 我们是否可以看到一个项目的路标？这样子对分支管理有帮助
+ 
+- 以上的度量指标对清理版本多余的分支很有帮助。 
 
-       Shall we look for a common roadmap? Shall we look for a list of measurements we’re all interested? It would be good to have this roadmap so we can share this with others. And if needed open issues or so in specific working groups. 
+### 关于亚太例会的一些想法和未来的定位：
 
-       Some ideas: organization APAC chaosscon. 
+- 可以讨论明年CHAOSSCON China的内容和进展，
 
-       Some ideas: discuss about specific metrics, and then share those with the specific working group. This is the beginning of the conversations, and then they’re polished in the several working groups. 
+- 可以挖掘出一些新的指标，进行一个初步的讨论，然后分享给其他chaoss的WG。
